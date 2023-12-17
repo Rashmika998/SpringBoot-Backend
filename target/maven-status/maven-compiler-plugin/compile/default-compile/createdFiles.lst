@@ -1,0 +1,5 @@
+org\devicedata\controller\DeviceDataController.class
+org\devicedata\repository\DeviceDataRepository.class
+org\devicedata\DeviceDataRunner.class
+org\devicedata\service\DeviceDataService.class
+org\devicedata\model\DeviceData.class
